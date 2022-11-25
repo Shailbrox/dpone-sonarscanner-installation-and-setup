@@ -1,0 +1,1 @@
+# dopek-sonarscanner-installation-and-setup
